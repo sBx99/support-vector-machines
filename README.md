@@ -7,6 +7,7 @@ In honour of Breast Cancer Awareness Month
 ## The things I made in Class for this Mini-Project
 1. [The presentation](https://docs.google.com/presentation/d/1ZuehaLkCsl3-HIKH5Lgf6eNPcWhKp32EqMdqJ2qCccA/edit?usp=sharing)
 2. [The Colab Notebook](https://colab.research.google.com/drive/1mxu0Xj5ZVuIanu_1hwXpWLEEzKxfVdRy?usp=sharing)
+3. [Jupyter NBViewer for Code](https://nbviewer.jupyter.org/gist/sBx99/a7973dd0bf99fb7025c53170742344fd)
 
 _Feel free to play around with the code and suggest any necessary changes or insightful criticisms by either commenting on code cells within the Colab Notebook or making a Pull Request in this repository!_
 
