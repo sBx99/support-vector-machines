@@ -1,5 +1,9 @@
 # Support Vector Machines
 
+In honour of Breast Cancer Awareness Month
+
+<img src="https://careresource.org/wp-content/uploads/2018/10/pink-ribbon-logo-png-transparent-719x899.png" height="100px" alt="pink sash">
+
 ## The things I made in Class for this Mini-Project
 1. [The presentation](https://docs.google.com/presentation/d/1ZuehaLkCsl3-HIKH5Lgf6eNPcWhKp32EqMdqJ2qCccA/edit?usp=sharing)
 2. [The Colab Notebook](https://colab.research.google.com/drive/1mxu0Xj5ZVuIanu_1hwXpWLEEzKxfVdRy?usp=sharing)
